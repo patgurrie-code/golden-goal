@@ -1,0 +1,17 @@
+{
+  "name": "golden-goal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Golden Goal: online Pro Clubs-style football for you and the boys",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "three": "0.169.0",
+    "ws": "8.18.0"
+  }
+}
